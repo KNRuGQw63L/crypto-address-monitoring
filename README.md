@@ -1,4 +1,4 @@
-# Crypto address minitoring tool  
+# Crypto address minitoring tool   
 
 ## Monitor the balance of any crypto address with this python project    
      
